@@ -1,6 +1,3 @@
-.venv/
-.vscode
 path.txt
-.gitignore
-/.gitignore
-./test
+.venv
+.vscode
