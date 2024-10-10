@@ -1,3 +1,5 @@
 .venv/
 .vscode
 path.txt
+.gitignore
+leet-code-python/.gitignore
